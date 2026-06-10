@@ -2,7 +2,7 @@
 
 Este proyecto implementa un modelo predictivo basado en Machine Learning (**Random Forest Regressor**) para anticipar y proyectar la carga de trabajo diaria (cantidad de tareas y modificaciones en sistemas del negocio) en una firma de asesoría contable y tributaria. 
 
-A diferencia de los enfoques estándar de series temporales, este modelo utiliza un enfoque **multifuente (Opción A)**, cruzando el historial transaccional de los desarrolladores o usuarios con un calendario fiscal exógeno para capturar con precisión los picos de trabajo causados por vencimientos de impuestos.
+A diferencia de los enfoques estándar de series temporales, este modelo utiliza un enfoque, cruzando el historial transaccional de los desarrolladores o usuarios con un calendario fiscal exógeno para capturar con precisión los picos de trabajo causados por vencimientos de impuestos.
 
 ---
 
