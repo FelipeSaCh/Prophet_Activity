@@ -1,0 +1,17 @@
+
+📊 REPORTE DE CALIFICACIÓN DEL MODELO CON CONTEXTO TRIBUTARIO AUTOMÁTICO:
+-----------------------------------------------------------------
+• Error Absoluto Medio (MAE):         9.20 tareas
+• Raíz del Error Cuadrático (RMSE):   14.11 tareas
+• Error Porcentual Ponderado (wMAPE): 32.19%
+• Precisión General Ajustada:         67.81%
+-----------------------------------------------------------------
+
+📈 PRONÓSTICO DE CARGA DE TRABAJO AUTOMATIZADO (PRÓXIMOS 7 DÍAS REALES):
+Fecha: 2026-07-17 -> Tareas estimadas: 18
+Fecha: 2026-07-18 -> Tareas estimadas: 4
+Fecha: 2026-07-19 -> Tareas estimadas: 4
+Fecha: 2026-07-20 -> Tareas estimadas: 27
+Fecha: 2026-07-21 -> Tareas estimadas: 25
+Fecha: 2026-07-22 -> Tareas estimadas: 25
+Fecha: 2026-07-23 -> Tareas estimadas: 23
